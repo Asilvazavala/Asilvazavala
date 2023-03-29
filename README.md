@@ -1,10 +1,10 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u" width="240" height="240" />
-  <h1 align="center">😀 Hi, I´m Antonio</h1>
-  <h3 align="center">A passionate web fullstack developer from Mexico, I am a self-taught web developer 
-    and I also studied engineering in information technology. I consider myself a person with  
-    a hunger for self-improvement and a passion for acquiring new knowledge. I like to play football,
-    read before go to sleep and play videogames.
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGYwYjQwYjU0ODQ3OTE0NGZhN2Y3MjBiYjQ4YTRiM2FlOWIzMjU2MSZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"      width="240" height="240" />
+ <h1 align="center">😀 Hi, I´m Antonio</h1>
+ <h3 align="center">A passionate web fullstack developer from Mexico, I am a self-taught web developer 
+   and I also studied engineering in information technology. I consider myself a person with  
+   a hunger for self-improvement and a passion for acquiring new knowledge. I like to play football,
+   read before go to sleep and play videogames.
   </h3>
 </div>
 
