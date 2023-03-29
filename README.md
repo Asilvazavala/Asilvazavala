@@ -1,7 +1,5 @@
 <div id="header" align="center">
-  <iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="240"    
-    height="240" frameBorder="0" class="giphy-embed" allowFullScreen> 
-  </iframe><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u"></a></p>
+  <img src="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u" width="240" height="240" />
   <h1 align="center">😀 Hi, I´m Antonio</h1>
   <h3 align="center">A passionate web fullstack developer from Mexico, I am a self-taught web developer 
     and I also studied engineering in information technology. I consider myself a person with  
