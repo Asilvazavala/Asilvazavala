@@ -1,5 +1,5 @@
 <div id="header" align="center">
- <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGYwYjQwYjU0ODQ3OTE0NGZhN2Y3MjBiYjQ4YTRiM2FlOWIzMjU2MSZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif](https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif)" width="240" height="240" alt="Computer Man" />
+ <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="240" height="240" alt="Computer Man" />
  <h1 align="center">😀 Hi, I´m Antonio</h1>
  <h3 align="center">A passionate web fullstack developer from Mexico, I am a self-taught web developer 
    and I also studied engineering in information technology. I consider myself a person with  
