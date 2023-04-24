@@ -1,10 +1,13 @@
 <div id="header" align="center">
  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="240" height="240" alt="Computer Man" />
  <h1 align="center">😀 Hi, I´m Antonio</h1>
- <h3 align="center">A passionate web fullstack developer from Mexico, I am a self-taught web developer 
-   and I also studied engineering in information technology. I consider myself a person with  
-   a hunger for self-improvement and a passion for acquiring new knowledge. I like to play football,
-   read before go to sleep and play videogames.
+ <h3 align="center">I studied systems engineering at the Universidad de la Salle Bajío. For the last 8 years he worked as a hardware and software support technician for my local government.
+
+I have always loved technology, especially computing, which is why since I was a child they always related me as the person who could give them references on any topic that involved what was said.
+For this reason, I decided to be a fullstack web developer, I have knowledge in JavasScript, React, Redux, NodeJs, Sequelize, etc.
+
+I consider myself a person with a hunger for self-improvement and a passion for acquiring new knowledge. I am a reliable person, easy to deal with and eager to develop both professionally and personally.
+If you like my profile do not hesitate to contact me.
   </h3>
 </div>
 
