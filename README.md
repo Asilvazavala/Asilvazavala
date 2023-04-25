@@ -15,11 +15,11 @@ If you like my profile do´nt doubt to contact me.
 
 ### About:
 
-- 💪 I´m currently learning **Python**
+- 💪 I´m currently learning Python
 
 - 🔭 I’m currently working on MarketPlace web
                
- - 🙉 Ask me about:
+ - 🙉 Ask me about these technologies:
 <h3 My skills:</h3>
 <div align="left">
   <div>
@@ -48,9 +48,9 @@ If you like my profile do´nt doubt to contact me.
 
 ### Contact:
 
-- 💼 https://antonio-silva-portfolio.onrender.com/
+- 💼 Portfolio: https://antonio-silva-portfolio.onrender.com/
 
-- 📨 **asilvazavala@gmail.com** 
+- 📨 Mail: asilvazavala@gmail.com 
 
 - 💎 Linkedin: https://www.linkedin.com/in/antonio-silva-developer
 
