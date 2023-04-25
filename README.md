@@ -1,6 +1,6 @@
 <div id="header">
  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="240" height="240" alt="Computer Man" />
- <h1 align="center">Hi, I´m Antonio</h1>
+ <h1 align="left">Hi, I´m Antonio</h1>
  <h3 align="left">I studied systems engineering at the Universidad de la Salle Bajío. In the last 8 years I have worked as a hardware and software support technician for my local government.
 
 I have always loved technology, especially computing, which is why since I was a child they always related me as the person who could give them references on any topic that involved what was said.
@@ -15,8 +15,6 @@ If you like my profile do´nt doubt to contact me.
 
 ### About:
 
-- 🙉 Ask me about **Javascript, React, Redux, NodeJS, Express, Git**
-
 - 💪 I´m currently learning **Python**
 
 - 🔭 I’m currently working on MarketPlace web
@@ -26,7 +24,8 @@ If you like my profile do´nt doubt to contact me.
        <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" 
        title="Linkedin" alt="Linkedin" width="40" height="40"/>&nbsp;
      </a>
-                                                             
+               
+ - 🙉 Ask me about **Javascript, React, Redux, NodeJS, Express, Git**
 
 <div align="left">
   <h3 My skills:</h3>
