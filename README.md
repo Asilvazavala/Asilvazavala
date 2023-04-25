@@ -19,7 +19,7 @@ If you like my profile do´nt doubt to contact me.
 
 - 🔭 I’m currently working on MarketPlace web
                
- - 🙉 Ask me about **Javascript, React, Redux, NodeJS, Express, Git**
+ - 🙉 Ask me about:
 <h3 My skills:</h3>
 <div align="left">
   <div>
