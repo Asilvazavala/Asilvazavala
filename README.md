@@ -18,17 +18,10 @@ If you like my profile do´nt doubt to contact me.
 - 💪 I´m currently learning **Python**
 
 - 🔭 I’m currently working on MarketPlace web
-
-- 📞 How to reach me **asilvazavala@gmail.com** 
-     <a href="https://www.linkedin.com/in/antonio-silva-developer" target="_blank" rel="noreferrer">
-       <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" 
-       title="Linkedin" alt="Linkedin" width="40" height="40"/>&nbsp;
-     </a>
                
  - 🙉 Ask me about **Javascript, React, Redux, NodeJS, Express, Git**
-
+<h3 My skills:</h3>
 <div align="left">
-  <h3 My skills:</h3>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" 
      title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
@@ -53,7 +46,17 @@ If you like my profile do´nt doubt to contact me.
 
 ---
 
-### ⛷️ My Stats:
+### Contact:
+
+- 💼 https://antonio-silva-portfolio.onrender.com/
+
+- 📨 **asilvazavala@gmail.com** 
+
+- 💎 Linkedin: https://www.linkedin.com/in/antonio-silva-developer
+
+---
+
+### My Stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Asilvazavala&theme=radical&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
