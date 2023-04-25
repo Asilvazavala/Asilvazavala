@@ -22,12 +22,12 @@ If you like my profile do´nt doubt to contact me.
 - 🔭 I’m currently working on MarketPlace web
 
 - 📞 How to reach me **asilvazavala@gmail.com** 
-     <a href="https://www.linkedin.com/in/antonio-silva-developer">
-       <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Ficons.veryicon.com%2Fpng%2Fo%2Fbusiness%2Fbusiness-finance%2Fportfolio.png&tbnid=nYnkbHuMmYea7M&vet=12ahUKEwi2vIuGucX-AhUMFN4AHboMCsMQMygRegUIARD5AQ..i&imgrefurl=https%3A%2F%2Fwww.veryicon.com%2Ficons%2Fbusiness%2Fbusiness-finance%2Fportfolio.html&docid=cetXinjm836s-M&w=512&h=512&q=portfolio%20icon&ved=2ahUKEwi2vIuGucX-AhUMFN4AHboMCsMQMygRegUIARD5AQ" 
+     <a href="https://www.linkedin.com/in/antonio-silva-developer" target="_blank" rel="noreferrer">
+       <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"" 
        title="Linkedin" alt="Linkedin" width="40" height="40"/>&nbsp;
      </a>
-     <a href="https://antonio-silva-portfolio.onrender.com">
-       <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" 
+     <a href="https://antonio-silva-portfolio.onrender.com" target="_blank" rel="noreferrer">
+       <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" 
        title="Portfolio" alt="Portfolio" width="40" height="40"/>&nbsp;
      </a>
 <div align="left">
