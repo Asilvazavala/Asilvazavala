@@ -23,9 +23,10 @@ If you like my profile do´nt doubt to contact me.
 
 - 📞 How to reach me **asilvazavala@gmail.com** 
      <a href="https://www.linkedin.com/in/antonio-silva-developer" target="_blank" rel="noreferrer">
-       <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"" 
+       <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" 
        title="Linkedin" alt="Linkedin" width="40" height="40"/>&nbsp;
      </a>
+                                                             
      <a href="https://antonio-silva-portfolio.onrender.com" target="_blank" rel="noreferrer">
        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" 
        title="Portfolio" alt="Portfolio" width="40" height="40"/>&nbsp;
