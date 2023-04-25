@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header" align="left">
  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="240" height="240" alt="Computer Man" />
  <h1 align="center">Hi, I´m Antonio</h1>
  <h3 align="center">I studied systems engineering at the Universidad de la Salle Bajío. In the last 8 years I have worked as a hardware and software support technician for my local government.
@@ -27,10 +27,7 @@ If you like my profile do´nt doubt to contact me.
        title="Linkedin" alt="Linkedin" width="40" height="40"/>&nbsp;
      </a>
                                                              
-     <a href="https://antonio-silva-portfolio.onrender.com" target="_blank" rel="noreferrer">
-       <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" 
-       title="Portfolio" alt="Portfolio" width="40" height="40"/>&nbsp;
-     </a>
+
 <div align="left">
   <h3 My skills:</h3>
   <div>
