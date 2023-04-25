@@ -1,6 +1,6 @@
 <div id="header" align="center">
  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="240" height="240" alt="Computer Man" />
- <h1 align="center">😀 Hi, I´m Antonio</h1>
+ <h1 align="center">Hi, I´m Antonio</h1>
  <h3 align="center">I studied systems engineering at the Universidad de la Salle Bajío. In the last 8 years I have worked as a hardware and software support technician for my local government.
 
 I have always loved technology, especially computing, which is why since I was a child they always related me as the person who could give them references on any topic that involved what was said.
@@ -13,18 +13,25 @@ If you like my profile do´nt doubt to contact me.
 
 ---
 
-### 👀 About Me:
+### About:
 
 - 🙉 Ask me about **Javascript, React, Redux, NodeJS, Express, Git**
-
-- 📞 How to reach me **asilvazavala@gmail.com**
 
 - 💪 I´m currently learning **Python**
 
 - 🔭 I’m currently working on MarketPlace web
 
+- 📞 How to reach me **asilvazavala@gmail.com** 
+     <a href="https://www.linkedin.com/in/antonio-silva-developer">
+       <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Ficons.veryicon.com%2Fpng%2Fo%2Fbusiness%2Fbusiness-finance%2Fportfolio.png&tbnid=nYnkbHuMmYea7M&vet=12ahUKEwi2vIuGucX-AhUMFN4AHboMCsMQMygRegUIARD5AQ..i&imgrefurl=https%3A%2F%2Fwww.veryicon.com%2Ficons%2Fbusiness%2Fbusiness-finance%2Fportfolio.html&docid=cetXinjm836s-M&w=512&h=512&q=portfolio%20icon&ved=2ahUKEwi2vIuGucX-AhUMFN4AHboMCsMQMygRegUIARD5AQ" 
+       title="Linkedin" alt="Linkedin" width="40" height="40"/>&nbsp;
+     </a>
+     <a href="https://antonio-silva-portfolio.onrender.com">
+       <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" 
+       title="Portfolio" alt="Portfolio" width="40" height="40"/>&nbsp;
+     </a>
 <div align="left">
-  <h3>🪒 Languages and tools:</h3>
+  <h3 My skills:</h3>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" 
      title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
