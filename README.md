@@ -1,7 +1,7 @@
-<div id="header" align="left">
+<div id="header">
  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="240" height="240" alt="Computer Man" />
  <h1 align="center">Hi, I´m Antonio</h1>
- <h3 align="center">I studied systems engineering at the Universidad de la Salle Bajío. In the last 8 years I have worked as a hardware and software support technician for my local government.
+ <h3 align="left">I studied systems engineering at the Universidad de la Salle Bajío. In the last 8 years I have worked as a hardware and software support technician for my local government.
 
 I have always loved technology, especially computing, which is why since I was a child they always related me as the person who could give them references on any topic that involved what was said.
 For this reason, I decided to be a fullstack web developer, I have knowledge in JavasScript, React, Redux, NodeJs, Sequelize, etc.
