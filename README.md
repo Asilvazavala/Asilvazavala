@@ -13,7 +13,7 @@ If you like my profile do´nt doubt to contact me.
 
 ---
 
-<h2>### About:</h2>
+### <h2>About:</h2>
 
 <h3>- 💪 I´m currently learning Python</h3>
 
@@ -46,7 +46,7 @@ If you like my profile do´nt doubt to contact me.
 
 ---
 
- <h2>### Contact:</h2>
+ ### Contact:
 
 <h3>- 💼 Portfolio: https://antonio-silva-portfolio.onrender.com/</h3>
 
