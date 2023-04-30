@@ -15,11 +15,11 @@ If you like my profile do´nt doubt to contact me.
 
 ### About:
 
-- 💪 I´m currently learning Python
+<h3>- 💪 I´m currently learning Python</h3>
 
-- 🔭 I’m currently working on MarketPlace web
+<h3>- 🔭 I’m currently working on MarketPlace web</h3>
                
- - 🙉 Ask me about these technologies:
+ <h3>- 🙉 Ask me about these technologies:</h3>
 <h3 My skills:</h3>
 <div align="left">
   <div>
