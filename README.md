@@ -13,7 +13,7 @@ If you like my profile do´nt doubt to contact me.
 
 ---
 
-### About:
+### <h2>About:</h2>
 
 <h3>- 💪 I´m currently learning Python</h3>
 
@@ -46,17 +46,17 @@ If you like my profile do´nt doubt to contact me.
 
 ---
 
-### Contact:
+### <h2>Contact:</h2>
 
-- 💼 Portfolio: https://antonio-silva-portfolio.onrender.com/
+<h3>- 💼 Portfolio: https://antonio-silva-portfolio.onrender.com/</h3>
 
-- 📨 Mail: asilvazavala@gmail.com 
+<h3>- 📨 Mail: asilvazavala@gmail.com</h3>
 
-- 💎 Linkedin: https://www.linkedin.com/in/antonio-silva-developer
+<h3>- 💎 Linkedin: https://www.linkedin.com/in/antonio-silva-developer</h3>
 
 ---
 
-### My Stats:
+### <h2>My Stats:</h2>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Asilvazavala&theme=radical&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
