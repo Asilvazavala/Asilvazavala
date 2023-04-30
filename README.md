@@ -56,7 +56,7 @@ If you like my profile do´nt doubt to contact me.
 
 ---
 
-### <h2>My Stats:</h2>
+### My Stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Asilvazavala&theme=radical&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
