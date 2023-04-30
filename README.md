@@ -13,7 +13,7 @@ If you like my profile do´nt doubt to contact me.
 
 ---
 
-### <h2>About:</h2>
+### About:
 
 <h3>- 💪 I´m currently learning Python</h3>
 
