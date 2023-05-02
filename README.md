@@ -2,7 +2,7 @@
  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="240" height="240" alt="Computer Man" />
  <h1 align="left">Hi, I´m Antonio</h1>
  <h3 align="left">Hi I´m Antonio, I studied systems engineering at the Universidad de la Salle Bajío. In the last 8 years I have worked as a hardware and software support technician for my local government. Since I was a child people related me as the person who could give them references on any technologyc topic.
-  
+  <br>
 For this reason, I decided to be a fullstack web developer, I consider myself a person with a hunger for self-improvement and a passion for acquiring new knowledge. I am a reliable person, easy to deal with and eager to develop both professionally and personally. 
 If you like my profile do´nt doubt to contact me.
   </h3>
