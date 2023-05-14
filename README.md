@@ -1,5 +1,5 @@
 <div id="header">
- <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="240" height="240" alt="Computer Man" />
+ [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Antonio%20Silva%20👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
  <h1 align="left">Hi, I´m Antonio</h1>
  <h3 align="left">Hi I´m Antonio, I studied systems engineering at the Universidad de la Salle Bajío. In the last 8 years I have worked as a hardware and software support technician for my local government. Since I was a child people related me as the person who could give them references on any technologyc topic.
   <br></br>
