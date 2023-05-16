@@ -1,10 +1,14 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Antonio%20Silva%20Fullstack%20Developer👩‍💻&width=1000&height=200)](https://github.com/Akshay090/svg-banners)
 <div id="header">
  <h1 align="left">Hi, I´m Antonio</h1>
- <h3 align="left">I studied systems engineering at the Universidad de la Salle Bajío. In the last 8 years I have worked as a hardware and software support technician for my local government. Since I was a child people related me as the person who could give them references on any technologyc topic.
-  <br></br>
-For this reason, I decided to be a fullstack web developer, I consider myself a person with a hunger for self-improvement and a passion for acquiring new knowledge. I am a reliable person, easy to deal with and eager to develop both professionally and personally. 
-If you like my profile do´nt doubt to contact me.
+ <h3 align="left">Hi, I'm Antonio, I live in the state of Guanajuato in Mexico, I have an engineering degree in information technology from the Universidad de la Salle Bajío.
+In the last 8 years I have worked as a hardware and software support technician for my local government. I also have knowledge of the English language at level: B1.
+<br></br>
+I tell you that I have worked in teams for the development of pages for: e-commerce, information consultation website, etc.
+Using technologies like: Javascript, HTML, CSS, React, Redux, NodeJS, PostgreSQL, Git, Github.
+My portfolio is: https://antonio-silva-portfolio.onrender.com
+<br></br>
+Contact me to understand your needs and thus be able to help you.
   </h3>
 </div>
 
