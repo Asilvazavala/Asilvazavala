@@ -3,8 +3,8 @@
  <h1 align="left">Hi, I´m Antonio</h1>
  <h3 align="left">I live in the state of Guanajuato in Mexico, I have an engineering degree in information technology from the Universidad de la Salle Bajío.
 In the last 8 years I have worked as a hardware and software support technician for my local government. I also have knowledge of the English language at level: B1.
-
-I tell you that I have worked in development of pages for: e-commerce, information consultation website, blog, etc.
+<br></br>
+I tell you that I have worked in development of pages for: e-commerce, information consultation website, soccer blog, etc.
 Using technologies like: Javascript, React, Redux, NodeJS, PostgreSQL, Git.
   </h3>
 </div>
