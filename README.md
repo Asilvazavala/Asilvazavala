@@ -6,8 +6,6 @@ In the last 8 years I have worked as a hardware and software support technician 
 
 I tell you that I have worked in development of pages for: e-commerce, information consultation website, blog, etc.
 Using technologies like: Javascript, React, Redux, NodeJS, PostgreSQL, Git.
-<br></br>
-My portfolio is: https://antonio-silva-portfolio.onrender.com
   </h3>
 </div>
 
