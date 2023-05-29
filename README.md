@@ -13,7 +13,7 @@ Using technologies like: Javascript, React, Redux, NodeJS, PostgreSQL, Git.
 
 ### About:
 
-<h3>- 💪 I´m currently learning Python</h3>
+<h3>- 💪 I´m currently learning Typescript</h3>
 
 <h3>- 🔭 I’m currently working on MarketPlace web</h3>
                
