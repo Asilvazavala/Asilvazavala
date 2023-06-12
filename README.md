@@ -5,7 +5,7 @@
 In the last 8 years I have worked as a hardware and software support technician for my local government. I also have knowledge of the English language at intermediate level.
 <br></br>
 I tell you that I have worked in development of pages for: e-commerce, information consultation website, soccer blog, etc.
-Using technologies like: Javascript, React, Redux, NodeJS, PostgreSQL, Git.
+Using technologies like: JavaScript, React, Redux, NodeJS, PostgreSQL, Git.
   </h3>
 </div>
 
@@ -26,19 +26,19 @@ Using technologies like: Javascript, React, Redux, NodeJS, PostgreSQL, Git.
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3" 
      alt="CSS3" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" 
-      title="JAVASCRIPT" alt="JAVASCRIPT" width="40" height="40"/>&nbsp;
+      title="JavaScript" alt="JAVASCRIPT" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" 
-     title="REACT" alt="REACT" width="40" height="40"/>&nbsp;
+     title="React" alt="REACT" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" 
-     title="REDUX" alt="REDUX" width="40" height="40"/>&nbsp;
+     title="Redux" alt="REDUX" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" 
-     title="BOOTSTRAP" alt="BOOTSTRAP" width="40" height="40"/>&nbsp;
+     title="Bootstrap" alt="BOOTSTRAP" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" 
-     title="NODEJS" alt="NODEJS" width="40" height="40"/>&nbsp;
+     title="NodeJS" alt="NODEJS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" 
-     title="GIT" alt="GIT" width="40" height="40"/>&nbsp;
+     title="Git" alt="GIT" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-plain.svg" 
-     title="SEQUELIZE" alt="SEQUELIZE" width="40" height="40"/>&nbsp;
+     title="Sequelize" alt="SEQUELIZE" width="40" height="40"/>&nbsp;
   </div>
 </div>
 
