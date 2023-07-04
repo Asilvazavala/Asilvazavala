@@ -43,6 +43,8 @@ I´m always in training, currently learning: NextJS and TypeScript.
      title="NodeJS" alt="NODEJS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" 
      title="Git" alt="GIT" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" 
+     title="PostgreSQL" alt="POSTGRESQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-plain.svg" 
      title="Sequelize" alt="SEQUELIZE" width="40" height="40"/>&nbsp;
   </div>
