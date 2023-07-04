@@ -27,10 +27,16 @@ I´m always in training, currently learning: NextJS and TypeScript.
      alt="CSS3" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" 
       title="JavaScript" alt="JAVASCRIPT" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" 
+      title="TypeScript" alt="TYPESCRIPT" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" 
      title="React" alt="REACT" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" 
+     title="NextJS" alt="NEXTJS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" 
      title="Redux" alt="REDUX" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" 
+     title="Tailwind" alt="TAILWIND" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" 
      title="Bootstrap" alt="BOOTSTRAP" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" 
