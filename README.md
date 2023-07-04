@@ -1,11 +1,11 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Antonio%20Silva%20Fullstack%20Developer👩‍💻&width=1000&height=200)](https://github.com/Akshay090/svg-banners)
 <div id="header">
  <h1 align="left">Hi, I´m Antonio</h1>
- <h3 align="left">I live in the state of Guanajuato in Mexico, I have an engineering degree in information technology from the Universidad de la Salle Bajío.
-  I also have knowledge of the English language at intermediate level.
+ <h3 align="left">Hello, I live in the state of Guanajuato in Mexico, graduated in information technology engineering. Also have knowledge of the English language at an intermediate level.
+Worked on the development of various pages such as: e-commerce, landing page, blog, etc.
 <br></br>
-I have worked in development of pages: e-commerce, information consultation website, soccer blog, etc.
-Using technologies like: JavaScript, React, Redux, NodeJS, PostgreSQL, Git.
+Some words that describe me: proactive, persevering, decisive, adaptable, teamplayer.
+I´m always in training, currently learning: NextJS and TypeScript.
   </h3>
 </div>
 
