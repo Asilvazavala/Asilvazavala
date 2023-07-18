@@ -13,9 +13,13 @@ I´m always in training, currently learning: Amazon web services and TypeScript.
 
 ### About:
 
-<h3>- 💪 I´m currently learning Typescript</h3>
+<h3>- 😀 I´m currently working on Goverment</h3>
 
-<h3>- 🔭 I’m currently working on MarketPlace web</h3>
+<h3>- 💪 Currently learning Typescript</h3>
+
+<h3>- 🔭 Currently working on MarketPlace</h3
+
+<h3>- 👯‍♂️ Looking to collaborate on projects</h3>                                                 
                
  <h3>- 🙉 Ask me about these technologies:</h3>
 <h3 My skills:</h3>
