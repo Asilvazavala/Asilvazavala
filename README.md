@@ -1,7 +1,7 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Antonio%20Silva%20Fullstack%20Developer👩‍💻&width=1000&height=200)](https://github.com/Akshay090/svg-banners)
 <div id="header">
  <h1 align="left">Hi, I´m Antonio</h1>
- <h3 align="left">I live in the state of Guanajuato in Mexico, +8 years of experience working as hardware and software maintenance technician. Graduated with academic excellence in information technology engineering. 
+ <h3 align="left">I live in the state of Guanajuato in Mexico, +8 years of experience working as hardware and software maintenance technician. Graduated with academic excellence in information technology engineering. Worked on the development of pages such as: e-commerce, landing page, blog, etc.
 
 <br></br>
 Some words that describe me: proactive, persevering, decisive, adaptable, teamplayer.
