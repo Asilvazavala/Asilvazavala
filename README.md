@@ -1,11 +1,11 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Antonio%20Silva%20Fullstack%20Developer👩‍💻&width=1000&height=200)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Antonio%20Silva%20Front-end%20Developer👩‍💻&width=1000&height=200)](https://github.com/Akshay090/svg-banners)
 <div id="header">
- <h1 align="left">Hi, I´m Antonio</h1>
- <h3 align="left">+8 years of experience working as hardware and software maintenance technician. I live in the state of Guanajuato in Mexico, graduated with academic excellence in information technology engineering. Worked on the development of pages such as: e-commerce, landing page, blog, etc.
-
+ <h1 align="left">Hola, soy Antonio</h1>
+ <h3 align="left">+1 año de experiencia desarrollando con JavaScript, TypeScript, React, Tailwind, NextJS, NodeJs, PostgreSQL. 
++8 años de experiencia trabajando como técnico de mantenimiento de hardware y software. 
 <br></br>
-Some words that describe me: proactive, persevering, decisive, adaptable, teamplayer.
-I´m always in training, currently learning Amazon web services and TypeScript.
+Vivo en el estado de Guanajuato en México. Graduado con excelencia académica en ingeniería en tecnologías de la información.
+Algunas palabras que me describen: proactivo, perseverante, adaptable, jugador de equipo. Siempre estoy en formación, actualmente estoy aprendiendo Amazon web services.
   </h3>
 </div>
 
@@ -15,7 +15,7 @@ I´m always in training, currently learning Amazon web services and TypeScript.
 
 <h3>- 😀 I´m currently working on Goverment</h3>
 
-<h3>- 💪 Currently learning Typescript</h3>
+<h3>- 💪 Currently learning Amazon web services</h3>
 
 <h3>- 🔭 Currently working on MarketPlace</h3>
 
