@@ -13,7 +13,8 @@ Si necesitas un desarrollador front-end enfocado en resolución de problemas, no
 
 ---
 
-### Acerca de mí:
+###
+<h1 align="left">Acerca de mí:</h1>
 <h3>- 😀 Estoy en búsqueda de trabajo</h3>
 
 <h3>- 💪 Actualmente aprendiendo Angular</h3>
@@ -63,7 +64,8 @@ Si necesitas un desarrollador front-end enfocado en resolución de problemas, no
 
 ---
 
- ### Contacto:
+ ### 
+ <h1 align="left">Contacto</h1>
 
 <h3>- 💼 Portafolio: https://as-work.vercel.app/</h3>
 
@@ -73,7 +75,8 @@ Si necesitas un desarrollador front-end enfocado en resolución de problemas, no
 
 ---
 
-### Mis estadísticas:
+### 
+<h1 align="left">Mis estadísticas:</h1>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Asilvazavala&theme=radical&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
