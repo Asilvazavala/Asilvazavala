@@ -1,9 +1,9 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Antonio%20Silva%20Front-end%20Developer👩‍💻&width=1000&height=200)](https://github.com/Akshay090/svg-banners)
 <div id="header">
  <h1 align="left">Hola, soy Antonio 👋</h1>
- <h3 align="left">Apasionado desarrollador front-end con 1 año de experiencia en JavaScript, TypeScript, React, Angular, TailwindCSS, Next.js, Node.js, Express, PostgreSQL, Git, Github, HTML, CSS. Vivo en el estado de Guanajuato en México, tengo un título en Ingeniería en tecnologías de la información.<br></br>
+ <h3 align="left">Apasionado desarrollador front-end con 1 año de experiencia en JavaScript, TypeScript, React, Angular, TailwindCSS, Next.js, Node.js, Express, PostgreSQL, Git, Github, HTML, CSS. Vivo en Guanajuato, México, tengo un título en Ingeniería en tecnologías de la información.<br></br>
 
-Me especializo en JavaScript, React y TailwindCSS para crear hermosas experiencias de usuario. Me encanta resolver problemas y afrontar nuevos retos. Soy proactivo, perseverante, adaptable, con facilidad para colaborar en equipo. Me encanta el fútbol, los videojuegos y la tecnología.
+Me especializo en JavaScript, React y TailwindCSS para crear hermosas experiencias de usuario. Me encanta resolver problemas y afrontar nuevos retos. Soy proactivo, perseverante y adaptable. Me encanta el fútbol, los videojuegos y la tecnología.
 
 +8 años de experiencia trabajando como técnico de mantenimiento, gestión de redes, manejo de ERP Mapics, creación de usuarios con Active Directory, gestión de correo interno con Lotus Notes, mantenimiento preventivo y correctivo a equipos de cómputo e impresoras, tanto en Hardware como en Software.
 
