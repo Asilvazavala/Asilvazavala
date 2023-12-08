@@ -1,29 +1,29 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Antonio%20Silva%20Front-end%20Developer👩‍💻&width=1000&height=200)](https://github.com/Akshay090/svg-banners)
 <div id="header">
- <h1 align="left">Hola, soy Antonio 👋</h1>
- <h3 align="left">Apasionado desarrollador front-end con 1 año de experiencia en JavaScript, TypeScript, React, Angular, TailwindCSS, Next.js, Node.js, Express, PostgreSQL, Git, Github, HTML, CSS. Vivo en Guanajuato, México, tengo un título en Ingeniería en tecnologías de la información.<br></br>
+ <h1 align="left">Hi, I´m Antonio 👋</h1>
+ <h3 align="left">Passionate front-end developer with 1 year of experience in JavaScript, TypeScript, React, Angular, TailwindCSS, Next.js, Node.js, Express, PostgreSQL, Git, Github, HTML, CSS. I live in Guanajuato, Mexico, I have a degree in Information Technology Engineering.<br></br>
 
-Me especializo en JavaScript, React y TailwindCSS para crear hermosas experiencias de usuario. Me encanta resolver problemas y afrontar nuevos retos. Soy proactivo, perseverante y adaptable. Me encanta el fútbol, los videojuegos y la tecnología.
+I specialize in JavaScript, React and TailwindCSS to create beautiful user experiences. I love solving problems and facing new challenges. I am proactive, persevering and adaptable. I love football, video games and technology.
 
-+8 años de experiencia trabajando como técnico de mantenimiento, gestión de redes, manejo de ERP Mapics, creación de usuarios con Active Directory, gestión de correo interno con Lotus Notes, mantenimiento preventivo y correctivo a equipos de cómputo e impresoras, tanto en Hardware como en Software.
++8 years of experience working as a maintenance technician, network management, management of ERP Mapics, creation of users with Active Directory, internal mail management with Lotus Notes, preventive and corrective maintenance of computer equipment and printers, both in Hardware and is Software.
 
-Si necesitas un desarrollador front-end enfocado en resolución de problemas, no dudes en contáctarme.
+If you need a front-end developer focused on problem solving, don't hesitate to contact me.
   </h3>
 </div>
 
 ---
 
 ###
-<h1 align="left">Acerca de mí:</h1>
-<h3>- 😀 Estoy en búsqueda de trabajo</h3>
+<h1 align="left">About:</h1>
+<h3>- 😀 Looking for work</h3>
 
-<h3>- 💪 Actualmente aprendiendo Angular</h3>
+<h3>- 💪 Currently learning Angular</h3>
 
-<h3>- 🔭 Trabajando en un proyecto E-commerce</h3>
+<h3>- 🔭 Working on an E-commerce project</h3>
 
-<h3>- 👯‍♂️ Buscando colaborar en nuevos proyectos</h3>                                                 
+<h3>- 👯‍♂️Looking to collaborate on new projects</h3>                                                 
                
- <h3>- 🙉 Pregúntame sobre estas tecnologías👇</h3>
+ <h3>- 🙉 Ask me about these technologies👇</h3>
 <h3 My skills:</h3>
 <div align="left">
   <div>
@@ -65,18 +65,18 @@ Si necesitas un desarrollador front-end enfocado en resolución de problemas, no
 ---
 
  ### 
- <h1 align="left">Contacto</h1>
+ <h1 align="left">Contact</h1>
 
-<h3>- 💼 Portafolio: https://as-work.vercel.app/</h3>
+<h3>- 💼 Portfolio: https://as-work.vercel.app/</h3>
 
-<h3>- 📨 Correo: asilvazavala@gmail.com</h3>
+<h3>- 📨 Mail: asilvazavala@gmail.com</h3>
 
 <h3>- 💎 Linkedin: https://www.linkedin.com/in/antonio-silva-developer</h3>
 
 ---
 
 ### 
-<h1 align="left">Mis estadísticas:</h1>
+<h1 align="left">My statistics:</h1>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Asilvazavala&theme=radical&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
