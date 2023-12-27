@@ -11,10 +11,9 @@ If you need a front-end developer focused on problem solving, don't hesitate to 
   </h3>
 </div>
 
----
+<br></br>
 
-###
-<h1 align="left">About:</h1>
+<h1>About:</h1>
 <h3>- 😀 Looking for work</h3>
 
 <h3>- 💪 Currently learning Angular</h3>
@@ -62,9 +61,8 @@ If you need a front-end developer focused on problem solving, don't hesitate to 
   </div>
 </div>
 
----
+<br></br>
 
- ### 
  <h1 align="left">Contact</h1>
 
 <h3>- 💼 Portfolio: https://as-work.vercel.app/</h3>
@@ -73,9 +71,8 @@ If you need a front-end developer focused on problem solving, don't hesitate to 
 
 <h3>- 💎 Linkedin: https://www.linkedin.com/in/antonio-silva-developer</h3>
 
----
+<br></br>
 
-### 
 <h1 align="left">My statistics:</h1>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Asilvazavala&theme=radical&hide_border=true&mode=weekly)](https://git.io/streak-stats)
