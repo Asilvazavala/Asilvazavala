@@ -48,7 +48,7 @@ If you need a front-end developer focused on problem solving, don't hesitate to 
      title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" 
      title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" 
      title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" 
      title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
