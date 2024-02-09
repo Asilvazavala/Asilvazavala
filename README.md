@@ -1,85 +1,46 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Antonio%20Silva%20Front-end%20Developer👩‍💻&width=1000&height=200)](https://github.com/Akshay090/svg-banners)
-<div id="header">
- <h1 align="left">Hi, I´m Antonio 👋</h1>
- <h3 align="left">Passionate front-end developer with 1 year of experience in JavaScript, TypeScript, React, Angular, TailwindCSS, Next.js, Node.js, Express, PostgreSQL, Git, Github, HTML, CSS. I live in Guanajuato, Mexico, I have a degree in Information Technology Engineering.<br></br>
+# Hey there! Welcome 👋
+[![SVG Banners](https://github.com/Asilvazavala/Astro-Portfolio/blob/7fcf77151479c52282edafed91e84528c23ebfe5/public/opengraph.png)
+## About me
+Professional in high-performance web design and development, specialized in TypeScript, React, and TailwindCSS. Love solving problems and facing challenges, with experience in JavaScript, TypeScript, React, TailwindCSS, Bootstrap, Angular, Next.js, Astro, Node.js, Express, PostgreSQL, Git & Github. Also have a degree in Information Technology Engineering.
+​
 
-I specialize in JavaScript, React and TailwindCSS to create beautiful user experiences. I love solving problems and facing new challenges. I am proactive, persevering and adaptable. I love football, video games and technology.
+😀 Looking for work
 
-+8 years of experience working as a maintenance technician, network management, management of ERP Mapics, creation of users with Active Directory, internal mail management with Lotus Notes, preventive and corrective maintenance of computer equipment and printers, both in Hardware and is Software.
+💪 Currently learning AWS
 
-If you need a front-end developer focused on problem solving, don't hesitate to contact me.
-  </h3>
-</div>
+🔭 Working on an E-commerce project
 
-<br></br>
+👯‍♂️Looking to collaborate on new projects                                               
 
-<h1>About:</h1>
-<h3>- 😀 Looking for work</h3>
+## 🏅Technologies that I've used.
 
-<h3>- 💪 Currently learning Angular</h3>
+| **Languages** | **Front End**| **Back End** |
+| :---: | :---: | :---: |
+| ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Type](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![React](https://img.shields.io/badge/React-%230E39A9?style=for-the-badge&logo=react) ![Angular](https://img.shields.io/badge/Angular-%23DD1100?style=for-the-badge&logo=angular) ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs) ![Astro](https://img.shields.io/badge/Astro-%232D004B?style=for-the-badge&logo=astro) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%23004788?style=for-the-badge&logo=tailwindcss) ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express) ![Sequelize](https://img.shields.io/badge/Sequelize-%232350A9?style=for-the-badge&logo=sequelize) |
 
-<h3>- 🔭 Working on an E-commerce project</h3>
+| **Cloud Services** | **Data Bases** | **Dev Tools** |
+| :---: | :---: | :---: |
+| ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel) ![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-%23DB3552?style=for-the-badge&logo=amazonaws) | ![MySQL](	https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23FC4C02?style=for-the-badge&logo=firebase) | ![Vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) ![git](	https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%237D00FF?style=for-the-badge&logo=trello)
 
-<h3>- 👯‍♂️Looking to collaborate on new projects</h3>                                                 
-               
- <h3>- 🙉 Ask me about these technologies👇</h3>
-<h3 My skills:</h3>
-<div align="left">
-  <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" 
-     title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" 
-     title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" 
-      title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" 
-      title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" 
-     title="React" alt="React" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" 
-     title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" 
-     title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/astro/astro-original.svg" 
-     title="Astro" alt="Astro" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" 
-     title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" 
-     title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" 
-     title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" 
-     title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" 
-     title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" 
-     title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" 
-     title="Express" alt="Express" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-plain.svg" 
-     title="Sequelize" alt="Sequelize" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" 
-     title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  </div>
-</div>
 
-<br></br>
+## 📡 Find me there:
 
- <h1 align="left">Contact</h1>
+💼 Portfolio: https://as-work.vercel.app/
 
-<h3>- 💼 Portfolio: https://as-work.vercel.app/</h3>
+📨 Mail: asilvazavala@gmail.com
 
-<h3>- 📨 Mail: asilvazavala@gmail.com</h3>
+💎 Linkedin: https://www.linkedin.com/in/antonio-silva-developer
 
-<h3>- 💎 Linkedin: https://www.linkedin.com/in/antonio-silva-developer</h3>
+## My statistics
 
-<br></br>
-
-<h1 align="left">My statistics:</h1>
+| *GitHub Stats* | *Programming Languages* |
+---|---  
+| ![NousCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asilvazavala&show_icons=true&theme=tokyonight) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asilvazavala&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) |
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Asilvazavala&theme=radical&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
-![Asilvazavala GitHub stats](https://github-readme-stats.vercel.app/api?username=Asilvazavala&show_icons=true&theme=dark)
+## Resources
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asilvazavala&hide_progress=true)](https://github.com/Asilvazavala/github-readme-stats)
--->
+Write me an email or Download my CV.
+- My email: <a style="margin-left: 8px;" href="mailto:asilvazavala@gmail.com">asilvazavala@gmail.com</a>
+- My CV in PDF format: <a style="text-align: center;" href="https://drive.google.com/file/d/1T5KSo0crbuGPGPMiAGHPgdR-w__Xvx_6/view">Curriculum Vitae</a>
