@@ -1,10 +1,10 @@
 # Hey there! Welcome 👋
 [![SVG Banners](https://github.com/Asilvazavala/Astro-Portfolio/blob/7fcf77151479c52282edafed91e84528c23ebfe5/public/opengraph.png)
 ## About me
-Professional in high-performance web design and development, specialized in TypeScript, React, and TailwindCSS. Love solving problems and facing challenges, with experience in JavaScript, TypeScript, React, TailwindCSS, Bootstrap, Angular, Next.js, Astro, Node.js, Express, PostgreSQL, Git & Github. Also have a degree in Information Technology Engineering.
+Professional in high-performance web design and development, specialized in JavaScript, React, and TailwindCSS. Also have a degree in Information Technology Engineering, live in Guanajuato, Mexico. I´m proactive, persevering and adaptable, have +8 years experience working as a technician performing maintenance on computer equipment and printers. Love solving problems and facing challenges besides soccer and videogames.
 ​
 
-😀 Looking for work
+😀 Looking for a job
 
 💪 Currently learning AWS
 
@@ -43,4 +43,4 @@ Professional in high-performance web design and development, specialized in Type
 
 Write me an email or Download my CV.
 - My email: <a style="margin-left: 8px;" href="mailto:asilvazavala@gmail.com">asilvazavala@gmail.com</a>
-- My CV in PDF format: <a style="text-align: center;" href="https://drive.google.com/file/d/1T5KSo0crbuGPGPMiAGHPgdR-w__Xvx_6/view">Curriculum Vitae</a>
+- My CV: <a style="text-align: center;" href="https://drive.google.com/file/d/1T5KSo0crbuGPGPMiAGHPgdR-w__Xvx_6/view">Curriculum Vitae</a>
