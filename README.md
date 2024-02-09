@@ -9,10 +9,9 @@ Professional in high-performance web design and development, specialized in Java
 💪 Currently learning AWS
 
 🔭 Working on an E-commerce project
+                                            
 
-👯‍♂️Looking to collaborate on new projects                                               
-
-## Technologies that I've used.
+## Technologies that I've used
 
 | **Languages** | **Front End**| **Back End** |
 | :---: | :---: | :---: |
@@ -23,7 +22,7 @@ Professional in high-performance web design and development, specialized in Java
 | ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel) ![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-%23DB3552?style=for-the-badge&logo=amazonaws) | ![MySQL](	https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23FC4C02?style=for-the-badge&logo=firebase) | ![Vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) ![git](	https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%237D00FF?style=for-the-badge&logo=trello)
 
 
-##  Find me there:
+##  Find me there
 
 💼 Portfolio: https://as-work.vercel.app/
 
