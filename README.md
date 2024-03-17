@@ -1,14 +1,17 @@
 # Hey there! Welcome 👋
-[![SVG Banners](https://github.com/Asilvazavala/Astro-Portfolio/blob/7fcf77151479c52282edafed91e84528c23ebfe5/public/opengraph.png)
+![SVG Banners](https://github.com/Asilvazavala/Astro-Portfolio/blob/7fcf77151479c52282edafed91e84528c23ebfe5/public/opengraph.png)
 ## About me
-Professional in high-performance web design and development, specialized in JavaScript, React, and TailwindCSS. Also have a degree in Information Technology Engineering, live in Guanajuato, Mexico. I´m proactive, persevering and adaptable, have +8 years experience working as a technician performing maintenance on computer equipment and printers. Love solving problems and facing challenges besides soccer and videogames.
-​
+Professional in high-performance web design and development, specialized in JavaScript, React, and TailwindCSS. Also have a degree in Information Technology Engineering, live in Mexico. I´m proactive, persevering and adaptable, have +8 years experience working as a technician. Love solving problems and facing challenges.
+
+💼 Portfolio: https://as-work.vercel.app/
+
+💎 Linkedin: https://www.linkedin.com/in/antonio-silva-developer​
+
+📨 Mail: asilvazavala@gmail.com
 
 😀 Looking for a job
 
 💪 Currently learning AWS
-
-🔭 Working on an E-commerce project
                                             
 
 ## Technologies that I've used
@@ -20,15 +23,6 @@ Professional in high-performance web design and development, specialized in Java
 | **Cloud Services** | **Data Bases** | **Dev Tools** |
 | :---: | :---: | :---: |
 | ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel) ![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-%23DB3552?style=for-the-badge&logo=amazonaws) | ![MySQL](	https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23FC4C02?style=for-the-badge&logo=firebase) | ![Vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) ![git](	https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%237D00FF?style=for-the-badge&logo=trello)
-
-
-##  Find me there
-
-💼 Portfolio: https://as-work.vercel.app/
-
-📨 Mail: asilvazavala@gmail.com
-
-💎 Linkedin: https://www.linkedin.com/in/antonio-silva-developer
 
 ## My statistics
 
