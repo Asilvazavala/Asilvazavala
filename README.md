@@ -34,6 +34,4 @@ Professional in high-performance web design and development, specialized in Java
 
 ## Resources
 
-Write me an email or Download my CV.
-- My email: <a style="margin-left: 8px;" href="mailto:asilvazavala@gmail.com">asilvazavala@gmail.com</a>
-- My CV: <a style="text-align: center;" href="https://drive.google.com/file/d/1T5KSo0crbuGPGPMiAGHPgdR-w__Xvx_6/view">Curriculum Vitae</a>
+- CV: <a style="text-align: center;" href="https://drive.google.com/file/d/1T5KSo0crbuGPGPMiAGHPgdR-w__Xvx_6/view">Curriculum Vitae</a>
