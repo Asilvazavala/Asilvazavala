@@ -1,18 +1,17 @@
 # Hey there! Welcome 👋
 ![SVG Banners](https://github.com/Asilvazavala/Astro-Portfolio/blob/7fcf77151479c52282edafed91e84528c23ebfe5/public/opengraph.png)
 ## About me
-Professional in high-performance web design and development, specialized in JavaScript, React, and TailwindCSS. Also have a degree in Information Technology Engineering, live in Mexico. I´m proactive, persevering and adaptable, have +8 years experience working as a technician. Love solving problems and facing challenges.
+Professional in high-performance web design and development, specialized in JavaScript, React, and TailwindCSS. Also have a degree in Information Technology Engineering, have +8 years experience working as a technician. Love solving problems and facing challenges.
 
 💼 Portfolio: https://as-work.vercel.app/
 
 💎 Linkedin: https://www.linkedin.com/in/antonio-silva-developer​
 
-📨 Mail: asilvazavala@gmail.com
+🪒 CV: <a style="text-align: center;" href="https://drive.google.com/file/d/1T5KSo0crbuGPGPMiAGHPgdR-w__Xvx_6/view">Curriculum Vitae</a>
 
 😀 Looking for a job
 
-💪 Currently learning AWS
-                                            
+💪 Currently learning AWS                                            
 
 ## Technologies that I've used
 
@@ -31,7 +30,3 @@ Professional in high-performance web design and development, specialized in Java
 | ![NousCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asilvazavala&show_icons=true&theme=tokyonight) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asilvazavala&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) |
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Asilvazavala&theme=radical&hide_border=true&mode=weekly)](https://git.io/streak-stats)
-
-## Resources
-
-- CV: <a style="text-align: center;" href="https://drive.google.com/file/d/1T5KSo0crbuGPGPMiAGHPgdR-w__Xvx_6/view">Curriculum Vitae</a>
