@@ -1,7 +1,7 @@
 # Hey there! Welcome 👋
 ![SVG Banners](https://github.com/Asilvazavala/Astro-Portfolio/blob/7fcf77151479c52282edafed91e84528c23ebfe5/public/opengraph.png)
 ## About me
-Professional in high-performance web design and development, specialized in JavaScript, React, and TailwindCSS. Also have a degree in Information Technology Engineering, have +8 years experience working as a technician. Love solving problems and facing challenges.
+More than 2 years of experience as a freelance software developer, my last project was for a political party candidate, I also completely redesigned the oldest page of my state Guanajuato, created more than 30 years ago, specialize in TypeScript, React and TailwindCSS. Love solving problems and facing new challenges.
 
 💼 Portfolio: https://as-work.vercel.app/
 
