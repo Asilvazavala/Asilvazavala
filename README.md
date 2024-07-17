@@ -7,7 +7,7 @@ More than 2 years of experience as a freelance software developer, my last proje
 
 💎 Linkedin: https://www.linkedin.com/in/antonio-silva-developer​
 
-🪒 CV: <a style="text-align: center;" href="https://drive.google.com/file/d/1T5KSo0crbuGPGPMiAGHPgdR-w__Xvx_6/view">Curriculum Vitae</a>
+🪒 CV: <a style="text-align: center;" href="https://drive.google.com/file/d/1VgebbgHHcoD3O6NV3zNZzQ1WDk25XVtE/view?usp=drive_link">Curriculum Vitae</a>
 
 😀 Looking for a job
 
